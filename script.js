@@ -3,4 +3,5 @@ let width = parseInt(prompt('Enter width: '))
     area = width * height
 
 document.write('Diện tích hình chữ nhật là: '+ area)
+
     
